@@ -1,11 +1,14 @@
 📊 Insights from Swiggy Restaurant Data in Bhopal
 Unlock valuable insights into Bhopal’s restaurant scene using Swiggy data! This analysis uncovers key trends in table bookings, discount impact, pricing strategies, and customer preferences.
+![image](https://github.com/user-attachments/assets/12ad2dfb-7f80-43d4-80fb-da4879948a07)
 
 🔍 Key Findings
 1️⃣ Table Booking is King
 ✅ 93.6% of restaurants offer table booking, making it the most dominant option.
 ❌ Other offers, like free drinks (5.2%), have minimal impact.
 💡 Actionable Tip: Restaurants should diversify promotions to attract customers beyond table bookings.
+![image](https://github.com/user-attachments/assets/2c373e2f-5d3a-4b8c-95a6-a004cec06455)
+
 
 2️⃣ Impact of Discounts on Pricing
 📉 Higher discounts lead to lower average prices:
@@ -31,6 +34,8 @@ Unlock valuable insights into Bhopal’s restaurant scene using Swiggy data! Thi
 🍽️ Top Cuisines: "Chinese + North Indian" (64 mentions), "Continental + North Indian" (23 mentions).
 🌟 Highest-rated Cuisine: "Continental + North Indian" (4.32 rating).
 💡 Actionable Tip: Restaurants should focus on fusion cuisine to meet customer demand.
+![image](https://github.com/user-attachments/assets/94a41e75-ec97-42d5-bcb8-4c457ac593ab)
+
 
 7️⃣ Booking Type & Discount Impact
 💰 Pre-booking avg. discount: 24.17%
